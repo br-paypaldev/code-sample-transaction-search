@@ -1,4 +1,4 @@
-code-sample-transaction-search
-==============================
+Code sample PHP
+===============
 
-Code samples utilizados no artigo criando relatórios customizados via API
+[Criando relatórios customizados via API](https://www.paypal-brasil.com.br/desenvolvedores/tutorial/criando-relatorios-customizados-via-api/)
